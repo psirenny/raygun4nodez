@@ -1,0 +1,32 @@
+{
+  "author": "Dennis Torres <djtorres0@gmail.com>",
+  "browser": "lib/browser.js",
+  "bugs": {
+    "url": "https://github.com/psirenny/raygun4nodez/issues"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "raygun": "^0.5.0"
+  },
+  "description": "A browserifiable version of the raygun4node plugin.",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "keywords": [
+    "browserify",
+    "node",
+    "raygun"
+  ],
+  "license": "MIT",
+  "main": "lib/node.js",
+  "name": "raygun4nodez",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/raygun4nodez.git"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "version": "0.1.0"
+}
