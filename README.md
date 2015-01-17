@@ -3,6 +3,11 @@ raygun4nodez
 
 A browserifiable version of the [https://github.com/MindscapeHQ/raygun4node](raygun4node) plugin.
 
+Deprecated
+----------
+
+This module is deprecated. Please use (lasergun)[https://github.com/psirenny/lasergun] instead.
+
 Motivation
 ----------
 
